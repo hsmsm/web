@@ -1,0 +1,21 @@
+.chat-bubble {
+  border: 1px solid #cccccc;
+  max-width: 640px;
+  min-height: 32px;
+  
+  padding: 8px;
+}
+
+.chat-bubble-me {
+  float: right;
+  right: 24px;
+
+  background-color: #DFF0D8;
+}
+
+.chat-bubble-op {
+  float: left;
+  left: 24px;
+  
+  background-color: #ffffff;
+}
