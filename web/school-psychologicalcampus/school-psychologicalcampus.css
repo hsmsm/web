@@ -1,0 +1,33 @@
+h2{
+  font-size:40px;
+  text-align: left;
+  letter-spacing: 5px;
+  margin-left: 40px;
+  font-weight: bolder;
+}
+.title{
+  font-size:25px;
+  margin-left: 40px;
+}
+
+.framework{
+  margin-left:auto;
+  margin-right: auto;
+  border:2px solid gainsboro;
+ width: 95%;
+ height: 150px;
+  font-size:20px;
+  color: gray;
+}
+
+.bottom{
+ position:relative;
+ top:60px;
+}
+
+.gray{
+  color: gray;
+}
+.link{
+  margin-left:30px;
+}

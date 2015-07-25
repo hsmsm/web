@@ -1,0 +1,45 @@
+h2{
+  text-align: left;
+  font-size:50px;
+  font-weight: bolder;
+  letter-spacing: 5px;
+  color: #46B8DA;
+  margin-left: 80px;
+}
+
+.headline{
+  font-size:25px;
+  font-weight: bold;
+  margin-top: 10px;
+  white-space: pre-wrap;
+}
+div span{
+  display: block;
+  font-size：15px;
+  margin-left: 35px;
+ margin-top:20px;
+ }
+img{height: 30px;
+width: 30px;
+}
+
+.framework{
+  height: 170px;
+  width: 100%;
+  overflow-y:auto;
+   border-bottom: 3px solid #122B40;
+}
+.container{
+  min-height: 800px;
+  background-repeat:no-repeat;
+  background-size:100% 800px;
+}
+.state{
+  font-size:15px;
+  color: cornflowerblue;
+}
+.box button{
+  float:right;
+  background-color:gray;
+  color: white;
+}

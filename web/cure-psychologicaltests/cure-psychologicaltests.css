@@ -1,0 +1,30 @@
+h2{
+  text-align:center;
+  color:#4682B4;
+  letter-spacing:25px;
+  font-weight:bolder;
+  font-size:50px;
+  margin-top: 35px;
+}
+
+h4{
+  font-weight:bold;
+  font-size:30px;
+  margin-left: 15px;
+  margin-top: 40px;
+  width: 500px;
+  overflow:hidden;
+  white-space:nowrap;;
+  text-overflow:ellipsis;
+}
+p{
+  color:gray;
+  font-size:20px;
+  margin-left:75px;
+}
+.container{
+  min-height:800px;
+  background-image:url(../img/心理测试.jpg);
+  background-repeat:no-repeat;
+  background-size:100% 800px;
+}
