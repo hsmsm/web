@@ -1,0 +1,33 @@
+div#container{width:800px;height: 600px;}
+div#left{width:150px;height: 600px;float: left;background-color: lemonchiffon;}
+div#leftmenu{height:70px;width:150px;}
+div#leftoption{height: 530px;width: 150px;margin-top: 19px;background-color: lightcyan;}
+div#content{height:600px;width:500px;float: left;}
+div#centercontent{height:450px;width:500px;float:left;}
+div#topcontent{background-color:lightcyan;height: 70px;width:500px;float:left;}
+div#bottomcontent{background-color:lavender;height:80px;width: 500px;float:left;}
+div#rightmenu{background-color:lightcyan;height:600px;width:50px;float:left;}
+div#recordboard{background-color:lavenderblush;height:600px;width: 100px;float: right;}
+
+
+.top{text-align: left;font-size: 23px;margin-left: 10px;margin-top: 17px;}
+.gray{font-size:18px;background-color:lavender;}
+.green{font-size: 18px;background-color:lightgoldenrodyellow;}
+.archive{font-size:18px;background-color:lavender;margin-top: 70px;}
+.chat-bubble{border:1px solid white;
+width:100%;
+height:40px;
+padding:5px;
+margin-top:5px;
+}
+
+.chat-bubble-me{
+  float: left;
+  width: 60%;
+  text-align:left;
+}
+.chat-bubble-op{
+  float: right;
+  width: 60%;
+  text-align:right;
+}

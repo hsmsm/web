@@ -18,7 +18,7 @@ h2 {
   min-height: 800PX;
   border:2px dotted gainsboro;
 background:url(../../img/树叶.jpg);
- background-size:50% 60%;
+ background-size:50% 50%;
   background-repeat:no-repeat;
   background-position: 50% 190px;
 }
