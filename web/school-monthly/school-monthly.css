@@ -2,12 +2,13 @@ h2{
   text-align:center;
   color:#008B8B;
   letter-spacing: 10px;
-  font-weight: bolder;
-  font-size:50px;
-  margin-top:25px;
-}
-div{
   font-weight: bold;
+  font-size:45px;
+  margin-top:25px;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+div{
   font-size:20px;
 }
 div textarea {
@@ -23,6 +24,9 @@ div input{
   min-height: 750px;
   background-repeat:no-repeat;
   background-size:100% 800px;
+}
+.box{
+  margin-right:80px;
 }
 .box button{
   float: right;

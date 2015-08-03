@@ -1,6 +1,5 @@
 .container{
   min-height: 800px;
-border: 2px dotted gainsboro;
 background-image: url(../../img/风筝.jpg);
 background-repeat:no-repeat;
 background-size:100% 800px;
